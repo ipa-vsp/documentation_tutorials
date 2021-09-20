@@ -12,7 +12,7 @@ Helllo
    :hidden:
    :caption: Project One
 
-   _source/index.md
+   _source/index
 
 .. toctree::
    :maxdepth: 2
